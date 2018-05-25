@@ -1,0 +1,6 @@
+public class {
+public statistic void main(string[] args) {
+// generate some simple output
+system.out.println("hello,world!");
+}
+}
